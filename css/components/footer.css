@@ -1,0 +1,19 @@
+.footer {
+  background: #4BAEE3;
+  text-align: center;
+  height: 100px;
+  padding: 0px 50px;
+  color: rgba(0,0,0,0.3);
+}
+.footer-links {
+}
+.footer-links a {
+  color: #FCAD85;
+  opacity: 0.7;
+  text-decoration: none;
+  font-size: 35px;
+  padding: 0px 10px;
+}
+.footer-links a:hover {
+  opacity: 1;
+}

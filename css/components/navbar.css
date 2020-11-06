@@ -1,0 +1,14 @@
+.navbar-curate {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #4BAEE3;
+  padding: 10px;
+}
+
+.navbar-curate a {
+  text-decoration: none;
+  font-family: Norwester;
+  color: white;
+  font-size: 28px;
+}

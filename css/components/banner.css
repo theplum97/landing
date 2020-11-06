@@ -1,0 +1,25 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.banner h1 {
+  margin: 0;
+  color: #FCAD85;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: 45px;
+  font-weight: bold;
+  font-family: Norwester;
+}
+
+.banner p {
+  font-size: 20px;
+  font-family: Josefin Sans;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
