@@ -60,7 +60,7 @@
 .fade-in {
     animation-name: opacityOn;
     animation-duration: 700ms;
-    animation-delay: 5s;
+    animation-delay: 30s;
     animation-fill-mode: forwards;
     animation-iteration-count: 1;
 }
