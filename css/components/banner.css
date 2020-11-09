@@ -31,11 +31,12 @@
 
 #header {
   color: white;
-  font-size: 80px;
+  font-size: 70px;
   text-decoration: underline;
   text-align: center;
   font-family: Norwester;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  margin: 0;
 }
 
 #solution h2 {
@@ -44,7 +45,7 @@
 
 .slide h2 {
   color: #FCAD85;
-  font-size: 70px;
+  font-size: 60px;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
   font-family: Norwester;
 }
